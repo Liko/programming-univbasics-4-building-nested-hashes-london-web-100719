@@ -13,6 +13,10 @@ def monopoly_with_second_tier
   hash = 
   { railroads:
     {
+      rent_in_dollars: 
+      {
+        one_piece_owned: 25
+      },
       pieces: 4,
     
     }
